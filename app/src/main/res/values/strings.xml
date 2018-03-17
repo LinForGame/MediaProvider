@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaProvider</string>
+    <string name="add">添加</string>
+    <string name="view">查看</string>
+</resources>
